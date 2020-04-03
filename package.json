@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-EstherJP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/hello-js-action-EstherJP.git"
+  },
+  "keywords": [],
+  "author": "Esther Jorge Paramio <alu0101102498@ull.edu.es> (https://github.com/EstherJP)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-EstherJP/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-EstherJP#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
